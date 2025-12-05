@@ -1,7 +1,7 @@
 {
-  "name": "mrslauncher",
-  "version": "3.0.8",
-  "productName": "MRS Launcher",
+  "name": "Leanlauncher",
+  "version": "1.0.0",
+  "productName": "Lean Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), peunsu (https://github.com/peunsu)",
   "license": "UNLICENSED",
